@@ -1,8 +1,13 @@
   .Name {
-
+    display: flex;
     padding-top: 40px;
     text-align: center;
     color: rgb(0, 244, 45);
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
 } 
 
 /*
