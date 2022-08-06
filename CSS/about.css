@@ -34,6 +34,18 @@ h3 {
     opacity: 0;
 }
 
+h3 {
+    text-align: center;
+}
+
+.card {
+    text-align: center;
+}
+
+.text {
+    text-align: center;
+}
+
 .card:hover .text {
     transform: translateY(-5px);
     opacity: 1;
